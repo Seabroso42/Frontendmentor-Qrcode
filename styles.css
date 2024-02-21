@@ -1,0 +1,41 @@
+.container{
+    background-color:lightgray;
+    width: 380px;
+    height: 420px;
+    border-radius: 5%;
+}
+
+#imgarea{
+    width: 320px;
+    padding: 25px;
+
+}
+#qrcode{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+#textbox{
+    margin: -25px;
+    height:45px;
+    border: 2px ;
+    border-color: red;
+}
+
+#texto{
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+}
+#undertext{
+    margin: -15px;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 11px;
+}
+
+span{
+    color: blueviolet;
+}
